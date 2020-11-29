@@ -144,6 +144,8 @@ jobs:
           # CONFIG_PACKAGE_luci-app-sqm is not set
           # CONFIG_PACKAGE_luci-app-ssr-python-pro-server is not set
           # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_ShadowsocksR_Socks is not set
+          # CONFIG_PACKAGE_luci-app-vnstat is not set
+          # CONFIG_PACKAGE_luci-app-statistics is not set
           CONFIG_PACKAGE_luci-theme-argon=y
           CONFIG_PACKAGE_luci-theme-material=y
           CONFIG_PACKAGE_luci-theme-netgear=y
